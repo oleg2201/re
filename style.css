@@ -45,7 +45,7 @@ p {
 
     .nav--text {
         display: flex;
-        gap: 75px;
+        gap: 25px;
         width: 495px;
     }
 
@@ -76,7 +76,7 @@ p {
     .youareworld {
         display: grid;
         grid-column: 1/6;
-        grid-row: 2/3;
+        grid-row: 1/2;
         font-size: 96px;
         align-self: self-start;
         animation: youare 3s ease-in-out infinite alternate;
